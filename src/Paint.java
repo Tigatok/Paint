@@ -12,6 +12,9 @@
  * -added title
  * -added size buttons
  * -added brush buttons
+ *
+ * Jesse added change.
+ *
  */
 
 import java.awt.Color;
